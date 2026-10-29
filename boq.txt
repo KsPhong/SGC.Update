@@ -1,7 +1,7 @@
-1.24.0
-https://github.com/KsPhong/SGC.Update/releases/download/boq-v1.24/SGC_BOQ_v1.24_Revit2027_Setup.exe
-Mới: Tự báo khi có bản mới, bấm Cập nhật rồi tắt Revit là bản mới tự cài
-Mới: Nghiệm thu khối lượng hiện trường cho nhiều cọc, cọc đã nghiệm thu tô màu cam
-Cải tiến: Giao diện tối theo Revit cho mọi cửa sổ và hộp thông báo
-Cải tiến: Bộ icon ribbon mới, rõ nét trên màn hình độ phân giải cao
-Sửa lỗi: Khoan tạo lỗ hiển thị và nhập theo mét (m)
+1.25.0
+https://github.com/KsPhong/SGC.Update/releases/download/boq-v1.25/SGC_BOQ_v1.25_Revit2027_Setup.exe
+Mới: Giao diện tối mới cho mọi cửa sổ, có logo SGC
+Cải tiến: Ribbon gọn: tab SGC BOQ, panel Khối lượng (Xuất BOQ · Nghiệm thu · Tự tính) và panel Add-in (Cập nhật)
+Cải tiến: File Excel cọc khoan nhồi theo đúng mẫu bệ trụ (cột Mã hạng mục phí … Ghi chú, ô Gói thầu)
+Cải tiến: Bảng xem trước BOQ: cột Khối lượng ngay cạnh Nội dung, gom lệnh vào menu Mô hình / Mẫu Excel / Công cụ
+Sửa lỗi: Tự báo bản mới khi mở Revit, bấm Cập nhật rồi tắt Revit là tự cài
