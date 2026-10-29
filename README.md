@@ -1,8 +1,13 @@
 # SGC.Update
 
-Kênh thông báo cập nhật cho các addin BIMUP. Addin đọc file này mỗi lần mở phần mềm.
+Kênh thông báo cập nhật cho các addin SGC / BIMUP. Addin đọc file của mình mỗi lần mở phần mềm.
 
-`revit.txt`:
+| File | Add-in | Repo mã nguồn | Tag release |
+|---|---|---|---|
+| `boq.txt` | SGC BOQ (Revit 2027) | KsPhong/SGC.BOQ (private) | `boq-vX.Y`, file `SGC_BOQ_vX.Y_Revit2027_Setup.exe` (add-in tải về, chạy im lặng khi tắt Revit) |
+| `revit.txt` | dành cho add-in SGC khác | | `revit-vX.Y.Z` |
+
+Định dạng chung (`boq.txt`, `revit.txt`):
 - Dòng 1: version mới nhất (so với AssemblyVersion của DLL)
 - Dòng 2: link tải bản cài
 - Dòng 3+: danh sách cập nhật, mỗi dòng một mục, đầu dòng ghi loại `Mới:`, `Cải tiến:` hoặc `Sửa lỗi:` (không ghi thì coi là Mới). Popup hiện tối đa 8 mục.
