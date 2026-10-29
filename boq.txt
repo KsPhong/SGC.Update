@@ -1,0 +1,7 @@
+1.24.0
+https://github.com/KsPhong/SGC.Update/releases/download/boq-v1.24/SGC_BOQ_v1.24_Revit2027_Setup.exe
+Mới: Tự báo khi có bản mới, bấm Cập nhật rồi tắt Revit là bản mới tự cài
+Mới: Nghiệm thu khối lượng hiện trường cho nhiều cọc, cọc đã nghiệm thu tô màu cam
+Cải tiến: Giao diện tối theo Revit cho mọi cửa sổ và hộp thông báo
+Cải tiến: Bộ icon ribbon mới, rõ nét trên màn hình độ phân giải cao
+Sửa lỗi: Khoan tạo lỗ hiển thị và nhập theo mét (m)
