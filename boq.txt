@@ -1,5 +1,3 @@
-1.28.0
-https://github.com/KsPhong/SGC.Update/releases/download/boq-v1.28/SGC_BOQ_v1.28_Revit2027_Setup.exe
-Mới: cột Mã hạng mục phí (Ctrl+M điền nhanh)
-Mới: nghiệm thu bệ trụ, bê tông lót, thân trụ
-Cải tiến: giao diện gọn, logo SGC, thanh cuộn tối
+1.29.0
+https://github.com/KsPhong/SGC.Update/releases/download/boq-v1.29/SGC_BOQ_v1.29_Revit2027_Setup.exe
+Sửa lỗi: CCLĐ thép bản lấy đúng tham số SGC_ThepBan (trước đây tính nhầm trọng lượng ống vách),Sửa lỗi: Vận chuyển đất thừa chỉ lấy SGC_VanChuyenDat (trước đây cộng thêm dung dịch khoan nên gấp đôi),Mới: BOQ dầm (mẫu Girder 26 hạng mục, khu vực đầu - cuối), nghiệm thu dầm,Mới: khung xem 3D, sáng/mờ theo đầu mục trong model
